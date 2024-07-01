@@ -10,6 +10,7 @@ Explore US Bikeshare Data
 For this project we utilized python in order to analyze data related to bike share systems. the data focused on 3 cities (New York City, Chicago, and Washington). We analyzed the time, station, and user statistics based off of user inputs.
 
 ### Files used
+Below are the CSV files which where used for the analysis:
 - chicago.csv
 - new_york_city.csv
 - washingtion.csv
